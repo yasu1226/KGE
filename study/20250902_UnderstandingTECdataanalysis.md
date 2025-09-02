@@ -1,3 +1,7 @@
+## Summary
+Today’s work can be summarized in two main points. First, TEC data were filtered to include only observation points within 200 km of the epicenter. Second, data were further filtered to focus on points with the largest TEC variations during the 10 minutes prior to the earthquake and visualized accordingly.
+
+-----------------
 ## Understanding TEC data analysis
 - Grasped the processing steps of the observational data plotting program
 - Confirmed how to implement a distance filter within 200 km of the epicenter
